@@ -18,7 +18,8 @@ public class DuplicateChecker {
         System.out.println(hasDuplicates(stringList));
         System.out.println(hasDuplicates(intList));
     }
-}
+
+    }
 
 
 
